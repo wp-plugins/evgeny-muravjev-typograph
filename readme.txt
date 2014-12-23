@@ -11,6 +11,8 @@ Author URI: http://mdash.ru
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+A tool to format the text using the rules, regulations and the specifics of the Russian language and screen typography. It can be connected to all text editors, engine and blogs.
+
 == Description ==
 
 A tool to format the text using the rules, regulations and the specifics of the Russian language and screen typography. It can be connected to all text editors, engine and blogs.
