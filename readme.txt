@@ -1,6 +1,6 @@
 === Plugin Name ===
 Plugin Name: Evgeny Muravjev Typograph
-Plugin URI: http://mdash.ru
+Plugin URI: https://wordpress.org/plugins/evgeny-muravjev-typograph/
 Contributors: Gadfly_svy
 Tags: typograph, Russian
 Requires at least: 4.1
