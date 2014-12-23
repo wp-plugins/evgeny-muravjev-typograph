@@ -17,7 +17,7 @@ A tool to format the text using the rules, regulations and the specifics of the 
 
 A tool to format the text using the rules, regulations and the specifics of the Russian language and screen typography. It can be connected to all text editors, engine and blogs.
 
-€нструмент длЯ форматированиЯ текста с использованием норм, правил и специфики русского Языка и экранной типографики. …го можно подключать ко всем редакторам текста, движкам и блогам.
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РґР»СЏ С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРёСЏ С‚РµРєСЃС‚Р° СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РЅРѕСЂРј, РїСЂР°РІРёР» Рё СЃРїРµС†РёС„РёРєРё СЂСѓСЃСЃРєРѕРіРѕ СЏР·С‹РєР° Рё СЌРєСЂР°РЅРЅРѕР№ С‚РёРїРѕРіСЂР°С„РёРєРё. Р•РіРѕ РјРѕР¶РЅРѕ РїРѕРґРєР»СЋС‡Р°С‚СЊ РєРѕ РІСЃРµРј СЂРµРґР°РєС‚РѕСЂР°Рј С‚РµРєСЃС‚Р°, РґРІРёР¶РєР°Рј Рё Р±Р»РѕРіР°Рј.
 
 == Installation ==
 
